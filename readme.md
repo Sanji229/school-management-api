@@ -21,7 +21,7 @@ A Node.js and Express.js-based REST API to manage school data, with functionalit
 ## 🧱 Project Structure
 
 
-school-management-api/
+```school-management-api/
 ├── app.js
 ├── db.js
 ├── .env
@@ -31,7 +31,7 @@ school-management-api/
 │ └── schoolController.js
 
 
-
+```
 ---
 
 ## ⚙️ Setup Instructions
